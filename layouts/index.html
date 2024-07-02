@@ -1,0 +1,12 @@
+{{ with .Site.GetPage "page" "start" }}
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="refresh" content="0; url={{ .Permalink }}" />
+  <link rel="canonical" href="{{ .Permalink }}">
+</head>
+<body>
+</body>
+</html>
+{{ end }}
+
