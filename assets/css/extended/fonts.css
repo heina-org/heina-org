@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "Barlow";
+    src: url('/fonts/Barlow-Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: "Futura";
+    src: url('/fonts/futura-light.woff2') format('woff2');
+}
+
+.post-title {
+    font-family: Barlow, sans-serif;
+    text-align: center;
+    justify-content: center;
+    font-size: 3em;
+}
+
+.post-description {
+    font-family: Futura, sans-serif;
+    text-align: center;
+    font-size: 2em;
+    letter-spacing: 4px;
+}
+
+
+.post-content {
+    font-family: Futura, sans-serif;
+    text-align: center;
+    font-size: 2em;
+    letter-spacing: 4px;
+}
+
+

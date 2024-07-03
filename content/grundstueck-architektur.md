@@ -10,4 +10,4 @@ orientieren. Die Architektur soll diese Kernbestandteile widerspiegeln und wird 
 Planern entwickelt. Eingesetzte Materialien sollen Lebenszyklus gerecht gewählt und Funktionen
 sinnvoll geplant und untergebracht werden.
 
-![Baufeld](/baufeld.png)
+![Baufeld](/img/baufeld.png)
