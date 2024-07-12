@@ -15,6 +15,7 @@
     font-size: 3em;
 }
 
+/*
 .post-description {
     font-family: Futura, sans-serif;
     text-align: center;
@@ -29,5 +30,11 @@
     font-size: 2em;
     letter-spacing: 4px;
 }
+*/
 
-
+.letterspace {
+    font-family: Futura, sans-serif;
+    text-align: center;
+    font-size: 2em;
+    letter-spacing: 4px;
+}

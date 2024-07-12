@@ -34,3 +34,8 @@ menu:
       url: /kontakt/
       weight: 6
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
