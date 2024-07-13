@@ -10,27 +10,27 @@ params:
 menu:
   main:
     - identifier: start
-      name: Start
+      name: START
       url: /start/
       weight: 1
     - identifier: konzept
-      name: Konzept
+      name: KONZEPT
       url: /konzept/
       weight: 2
     - identifier: grundstueck
-      name: "Grundstück / Architektur"
+      name: ARCHITEKTUR
       url: /grundstueck-architektur/
       weight: 3
-    - identifier: downloads
-      name: "Downloads / Informationen"
+    - identifier: DOWNLOADS
+      name: DOWNLOADS
       url: /downloads/
       weight: 4
     - identifier: ueberuns
-      name: "Über uns"
+      name: "ÜBER UNS"
       url: /ueber-uns/
       weight: 5
     - identifier: kontakt
-      name: Kontakt
+      name: KONTAKT
       url: /kontakt/
       weight: 6
 

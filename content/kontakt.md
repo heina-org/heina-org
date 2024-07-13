@@ -1,15 +1,5 @@
 ---
-title: "Testseite zum Ausprobieren"
+title: "Schreib uns!"
 ---
 
-# H1 Überschrift
-
-Fliesstext... blablubb
-
-## H2 Überschrift
-
-Fliesssssssssssssssblubb
-
-### H3 Überschrift
-
-Lorem blubbsum sit amet nolite bastardes carborundorum
+TODO: Email-Adresse, Impressum (wessen Adresse nehmen wir? gibts eine Firmenadresse? Oder "c/o HHBB")?
