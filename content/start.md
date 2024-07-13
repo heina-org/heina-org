@@ -2,8 +2,7 @@
 title: "HeiNa *"
 ---
 
-<p class="letterspace">
 Heitere Nachbarschaft - unsere Baugemeinschaft im Rathausviertel in Hamburg-Wilhelmsburg.
-</p><br>
+{class="letterspace"}
 
-![Elbinsel](/img/elbinsel.png)
+{{< figure src="/img/elbinsel.png" width="400em" alt="Elbinsel" class="center-img" >}}
