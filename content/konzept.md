@@ -1,5 +1,6 @@
 ---
 title: "Das Wilhelmsburger Rathausviertel braucht ein RADhaus."
+theme_color: "purple"
 ---
 
 Als leidenschaftliche Radfahrende wollen wir mit unserem Projekt einen räumlichen, konzeptionellen und

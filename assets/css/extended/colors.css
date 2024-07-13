@@ -22,3 +22,30 @@
     --border: #446;
 }
 
+.theme-yellow {
+    --theme: #7f7f00;
+    --navcolor: #a47fff;
+    --entry: #000000;
+    --primary: #000000;
+    --secondary: #222222;
+    --tertiary: #444444;
+    --content: #222222;
+    --hljs-bg: #1c1d21;
+    --code-bg: #f5f5f5;
+    --border: #eee;
+}
+
+.theme-purple {
+    --theme: #a47fff;
+    --navcolor: #7f7f00;
+    --entry: #000000;
+    --primary: #000000;
+    --secondary: #222222;
+    --tertiary: #444444;
+    --content: #222222;
+    --hljs-bg: #1c1d21;
+    --code-bg: #f5f5f5;
+    --border: #eee;
+}
+
+
