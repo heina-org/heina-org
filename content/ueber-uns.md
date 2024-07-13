@@ -3,6 +3,7 @@ title: "ÜBER UNS."
 ---
 
 HeiNa ist eine gemeinsame Geschichte.
+{class="letterspace"}
 
 Als Baugemeinschaft haben wir uns im Jahr 2019 zusammengeschlossen. Die Initiative ging
 von einem Freundeskreis aus. Die Idee, wieder mehr Gemeinschaft und Lebensfreuden
