@@ -3,4 +3,8 @@
 //    font-family: Barlow, sans-serif;
     justify-content: center;
 }
+.page-header,
+.post-header {
+    margin: 0px auto var(--content-gap) auto;
+}
 
