@@ -1,5 +1,6 @@
 ---
 title: "Informationen / Downloads"
+theme_color: "yellow"
 ---
 
 Hier finden sich Informationen zu unserer Baugemeinschaft HeiNa sowie zum

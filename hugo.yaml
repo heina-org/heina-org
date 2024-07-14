@@ -21,13 +21,13 @@ menu:
       name: ARCHITEKTUR
       url: /grundstueck-architektur/
       weight: 3
-    - identifier: DOWNLOADS
-      name: DOWNLOADS
-      url: /downloads/
-      weight: 4
     - identifier: ueberuns
       name: "ÜBER UNS"
       url: /ueber-uns/
+      weight: 4
+    - identifier: DOWNLOADS
+      name: DOWNLOADS
+      url: /downloads/
       weight: 5
     - identifier: kontakt
       name: KONTAKT

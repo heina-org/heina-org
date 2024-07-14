@@ -1,5 +1,6 @@
 ---
 title: "Das ist unser Grundstück. Und die Architekturidee dazu."
+theme_color: "red"
 ---
 
 <hr>
