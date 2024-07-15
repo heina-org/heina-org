@@ -1,6 +1,5 @@
 /* Center nav bar */
 .nav {
-//    font-family: Barlow, sans-serif;
     justify-content: center;
     line-height: 1em;
 }
@@ -9,7 +8,3 @@
 .post-header {
     margin: 0px auto var(--content-gap) auto;
 }
-
-.menu {
-    background: var(--navcolor);
-};

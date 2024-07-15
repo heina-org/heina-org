@@ -13,6 +13,7 @@
     word-break: keep-all;
     overflow-x: auto;
     white-space: nowrap;
+    background: var(--navcolor);
 }
 
 .menu li+li {
@@ -64,5 +65,15 @@
         display: none;
     }
 }
+
+.menu a {
+    color: var(--navcontent) !important;
+}
+
+.menu button {
+    color: var(--navcontent) !important;
+}
+
+
 
 /* END hamburger menu */
