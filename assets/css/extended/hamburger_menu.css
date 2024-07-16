@@ -8,16 +8,14 @@
 
 .menu {
     display: flex;
-    margin: auto var(--gap);
     list-style: none;
     word-break: keep-all;
     overflow-x: auto;
     white-space: nowrap;
     background: var(--navcolor);
-}
-
-.menu li+li {
-    margin-inline-start: var(--gap);
+    justify-content: space-between;
+    width: 100%;
+    max-width: 900px;
 }
 
 .menu a {
@@ -59,6 +57,7 @@
         display: block;
         float: right;
         margin: auto var(--gap);
+        color: var(--navcontent);
     }
 
     .menu.hidden {
