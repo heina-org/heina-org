@@ -1,6 +1,6 @@
 ---
 title: "Schreib uns."
-theme_color: "red"
+theme_color: "green"
 ---
 
 Kontakt: [hello@heina.org](mailto:hello@heina.org)

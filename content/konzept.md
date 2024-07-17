@@ -1,6 +1,6 @@
 ---
 title: "HeiNa baut das Radhaus."
-theme_color: "purple"
+theme_color: "blue"
 ---
 
 ## HeiNa – die „Heitere Nachbarschaft“.

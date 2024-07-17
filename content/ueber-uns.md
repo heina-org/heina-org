@@ -1,6 +1,6 @@
 ---
 title: "HeiNa ist eine gemeinsame Geschichte."
-theme_color: "yellow"
+theme_color: "purple"
 ---
 
 2019 haben wir uns als Freundeskreis zusammengeschlossen, um mehr Gemeinschaft und Lebensfreude unter einem Dach zu erleben. Aus dieser Idee entstand die Vision des RADhauses. Mit einem klaren Konzept sicherten wir uns das Grundstück. Jetzt arbeiten wir mit unserem Bauberater von HHBB >Link< zusammen und führen Vorgespräche mit unserem Architekturbüro.

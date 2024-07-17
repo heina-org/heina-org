@@ -1,5 +1,5 @@
 :root {
-    --theme: #a47fff;
+    --theme: #e6e467;
     --entry: #000000;
     --primary: #000000;
     --secondary: #222222;
@@ -9,11 +9,16 @@
     --code-bg: #f5f5f5;
     --border: #eee;
     --header-height: 54px;
+    --col-orange: #de9077;
+    --col-green: #c6cfb7;
+    --col-purple: #b8b2d9;
+    --col-blue: #c7cee9;
+    --col-yellow: #e6e467;
 }
 
-.theme-yellow {
-    --theme: #ccda78;
-    --navcolor: #9d82ff;
+.theme-orange {
+    --theme: var(--col-orange);
+    --navcolor: var(--col-green);
     --navcontent: #000000;
     --entry: #000000;
     --primary: #000000;
@@ -39,9 +44,22 @@
     --border: #446;
 }
 
+.theme-green {
+    --theme: var(--col-green);
+    --navcolor: var(--col-yellow);
+    --entry: #000000;
+    --primary: #000000;
+    --secondary: #222222;
+    --tertiary: #444444;
+    --content: #222222;
+    --hljs-bg: #1c1d21;
+    --code-bg: #f5f5f5;
+    --border: #eee;
+}
+
 .theme-purple {
-    --theme: #9d82ff;
-    --navcolor: #ccda78;
+    --theme: var(--col-purple);
+    --navcolor: var(--col-orange);
     --entry: #000000;
     --primary: #000000;
     --secondary: #222222;
@@ -52,23 +70,9 @@
     --border: #eee;
 }
 
-.theme-purple-dark {
-    --theme: #000000;
-    --navcolor: #333333;
-    --navcontent: #ccda78;
-    --entry: #aaaaaa;
-    --primary: #a47fff;
-    --secondary: #aaaaaa;
-    --tertiary: #aaaaaa;
-    --content: #a47fff;
-    --hljs-bg: #2e2e33;
-    --code-bg: #37383e;
-    --border: #446;
-}
-
-.theme-red {
-    --theme: #af4d8a;
-    --navcolor: #9d82ff;
+.theme-blue {
+    --theme: var(--col-blue);
+    --navcolor: var(--col-orange);
     --entry: #000000;
     --primary: #000000;
     --secondary: #222222;
@@ -79,17 +83,16 @@
     --border: #eee;
 }
 
-.theme-red-dark {
-    --theme: #000000;
-    --navcolor: #333333;
-    --navcontent: #9d82ff;
-    --entry: #aaaaaa;
-    --primary: #cf5daa;
-    --secondary: #aaaaaa;
-    --tertiary: #aaaaaa;
-    --content: #cf6dba;
-    --hljs-bg: #2e2e33;
-    --code-bg: #37383e;
-    --border: #446;
+.theme-yellow {
+    --theme: var(--col-yellow);
+    --navcolor: var(--col-purple);
+    --entry: #000000;
+    --primary: #000000;
+    --secondary: #222222;
+    --tertiary: #444444;
+    --content: #222222;
+    --hljs-bg: #1c1d21;
+    --code-bg: #f5f5f5;
+    --border: #eee;
 }
 

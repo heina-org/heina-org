@@ -1,6 +1,6 @@
 ---
 title: "Das ist unser Grundstück. Und die Architekturidee."
-theme_color: "red"
+theme_color: "orange"
 ---
 
 Unser RADhaus entsteht im nordwestlichen Bereich des Rathausviertels auf dem Baufeld 01.
