@@ -14,10 +14,11 @@
     white-space: nowrap;
     background: var(--navcolor);
     justify-content: space-between;
-    width: 100%;
-    max-width: 900px;
+    z-index: 10;
 }
 
+/* .main { */
+/* } */
 .menu a {
     font-size: 16px;
 }
@@ -26,19 +27,30 @@
     font-weight: 500;
     border-bottom: 2px solid currentColor;
 }
+@media screen and (min-width: 769px) {
+    .menu {
+        height: var(--header-height);
+        position: fixed;
+        width: 100%;
+        max-width: 900px;
+    }
+    .main {
+        margin-top: calc(var(--header-height) + 10px);
+    }
+}
 
 @media screen and (max-width: 768px) {
     .menu {
         list-style: none;
-        position: absolute;
+        position: fixed;
         right: 0;
         z-index: 5;
         margin-bottom: var(--gap);
         padding: var(--gap);
-        background: var(--code-bg);
+        background: var(--navcolor);
         border-radius: var(--radius);
         border: 2px solid var(--tertiary);
-        line-height: 2.5;
+        line-height: 2.3;
         margin: calc(var(--header-height) - var(--gap)) var(--gap);
         display: block;
     }
@@ -53,12 +65,17 @@
 
     #menu-trigger {
         font-size: 30px;
-        position: relative;
+        position: fixed;
         display: block;
-        float: right;
+        right: 0;
         margin: auto var(--gap);
         color: var(--navcontent);
         background: var(--navcolor);
+        z-index: 20;
+        border-radius: var(--radius);
+        border: 2px solid var(--tertiary);
+        display: block;
+        padding: 4px;
     }
 
     .menu.hidden {
