@@ -1,24 +1,9 @@
 ---
-title: "ÜBER UNS."
+title: "HeiNa ist eine gemeinsame Geschichte."
 theme_color: "yellow"
 ---
 
-HeiNa ist eine gemeinsame Geschichte.
-{class="letterspace"}
+2019 haben wir uns als Freundeskreis zusammengeschlossen, um mehr Gemeinschaft und Lebensfreude unter einem Dach zu erleben. Aus dieser Idee entstand die Vision des RADhauses. Mit einem klaren Konzept sicherten wir uns das Grundstück. Jetzt arbeiten wir mit unserem Bauberater von HHBB >Link< zusammen und führen Vorgespräche mit unserem Architekturbüro.
 
-Als Baugemeinschaft haben wir uns im Jahr 2019 zusammengeschlossen. Die Initiative ging
-von einem Freundeskreis aus. Die Idee, wieder mehr Gemeinschaft und Lebensfreuden
-zu teilen und dies unter einem Dach zu vereinen, trieb uns an.
-
-Im Laufe der Jahre entstand die Vision des RADhauses und das Konzept, mit der wir uns die Reservierung
-des Grundstücks sichern konnten. Inzwischen arbeiten wir mit einem Bauberater zusammen
-und sind in Vorgesprächen mit unserem Architekturbüro.
-
-Und die Gruppe ist gewachsen:
-Wir sind Planerinnen, Architekten, Lehrerinnen, Illustratoren und Sozialwissenschaftlerinnen
-unterschiedlichen Alters, mit und ohne Kinder.
-
-Wir treffen uns regelmäßig – zum Arbeiten und zum Spaß – 
-und sind in verschiedenen AGs organisiert. Nach wie vor legen wir großen Wert auf Stabilität,
-gemeinsame Werte und eine sorgfältige Auswahl neuer Mitglieder.
+Unsere Gruppe ist vielfältig: Wir sind Planer:innen, Architekt:innen, Lehrer:innen, Illustrator:innen, Ingenieur:innen und Sozialwissenschaftler:innen unterschiedlichen Alters, mit und ohne Kinder. Wir treffen uns regelmäßig – zum Arbeiten und zum Spaß. In verschiedenen Arbeitsgruppen organisieren wir das Projekt. Wir legen großen Wert auf Stabilität, gemeinsame Werte und eine sorgfältige Auswahl neuer Mitglieder.
 

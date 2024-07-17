@@ -1,26 +1,15 @@
 ---
-title: "Das ist unser Grundstück. Und die Architekturidee dazu."
+title: "Das ist unser Grundstück. Und die Architekturidee."
 theme_color: "red"
 ---
 
-<hr>
-
-Auf dem Baufeld 01 im Rathausviertel wird unser RADhaus entstehen.
-{class="letterspace"}
-
-<hr>
+Unser RADhaus entsteht im nordwestlichen Bereich des Rathausviertels auf dem Baufeld 01.
+Das Eckgebäude liegt direkt am Wilhelmsburger Loop mit Blick auf einen kleinen Park und den Aßmannkanal. 
 
 {{< figure src="/img/baufeld.png" width="500em" alt="Elbinsel" class="center-img" >}}
 
-Gemeinschaft, Offenheit und
-Nachhaltigkeit stehen im Mittelpunkt unseres Gruppen- und Bauprozesses und unseres künftigen
-Zusammenlebens.
+Außenliegender Sonnenschutz, Fassadengrün, Dachgarten. Wir planen rund 20 Eigentumswohnungen in einem nachhaltigen Holz(hybrid)bau mit minmaler Haustechnik. Die Gesamtkosten belaufen sich geschätzt aktuell auf ca. 5.000 Euro pro Quadratmeter.
 
-Wir leben demokratische Grundprinzipien, wollen ein möglichst nachhaltiges
-Wohngebäude bauen und unsere Lebensweisen am Prinzip der ökologischen Nachhaltigkeit
-orientieren.
+Wir wünschen uns eine vielfältige Bewohner:innenschaft für unser Haus und wir berücksichtigen dies bei der Gewinnung neuer Mitglieder. Im Haus sollen Wohnungstypen für unterschiedliche Lebensphasen und Budgets realisiert werden. Unser Haus wird durch Angebote wie die Fahrradwerkstatt, ggf. die Ausgabe für Unverpacktes und Kaffee sowie ein offenes Programm für die Nachbarschaft lebendig und einladend sein.
 
-Die Architektur soll diese Kernbestandteile widerspiegeln und wird gemeinsam mit den
-Planern entwickelt. Eingesetzte Materialien sollen Lebenszyklus gerecht gewählt und Funktionen
-sinnvoll geplant und untergebracht werden.
-
+Darüber hinaus teilen wir uns das Baufeld mit drei weiteren Baugemeinschaften, mit denen wir gemeinsam das Freiraumkonzept im Innenhof entwickeln werden. 
