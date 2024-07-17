@@ -9,4 +9,4 @@ Kontakt: [hello@heina.org](mailto:hello@heina.org)
 
 Bitte habt Verständnis dafür, dass wir nicht innerhalb kürzester Zeit antworten, aber unsere zuständige AG wird sich ganz sicher bei euch melden!
 
-TODO: Email-Adresse, Impressum (wessen Adresse nehmen wir? gibts eine Firmenadresse? Oder "c/o HHBB")?
+
