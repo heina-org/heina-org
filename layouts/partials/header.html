@@ -4,10 +4,12 @@
     function setDark() {
         document.body.classList.remove(lightClass);
         document.body.classList.add(darkClass);
+        document.body.classList.add('dark');
     }
     function setLight() {
         document.body.classList.remove(darkClass);
         document.body.classList.add(lightClass);
+        document.body.classList.remove('dark');
     }
     if (localStorage.getItem("pref-theme") === "dark") {
         setDark();
