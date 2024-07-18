@@ -30,15 +30,15 @@
     --border: #eee;
 }
 
-.theme-yellow-dark {
+.theme-orange-dark {
     --theme: #000000;
     --navcolor: #333333;
-    --navcontent: #9d82ff;
+    --navcontent: var(--col-green);
     --entry: #aaaaaa;
-    --primary: #ccda78;
+    --primary: var(--col-orange);
+    --content: var(--col-orange);
     --secondary: #aaaaaa;
     --tertiary: #aaaaaa;
-    --content: #ccda78;
     --hljs-bg: #2e2e33;
     --code-bg: #37383e;
     --border: #446;
@@ -57,6 +57,20 @@
     --border: #eee;
 }
 
+.theme-green-dark {
+    --theme: #000000;
+    --navcolor: #333333;
+    --navcontent: var(--col-yellow);
+    --entry: #aaaaaa;
+    --primary: var(--col-green);
+    --content: var(--col-green);
+    --secondary: #aaaaaa;
+    --tertiary: #aaaaaa;
+    --hljs-bg: #2e2e33;
+    --code-bg: #37383e;
+    --border: #446;
+}
+
 .theme-purple {
     --theme: var(--col-purple);
     --navcolor: var(--col-orange);
@@ -69,6 +83,21 @@
     --code-bg: #f5f5f5;
     --border: #eee;
 }
+
+.theme-purple-dark {
+    --theme: #000000;
+    --navcolor: #333333;
+    --navcontent: var(--col-orange);
+    --entry: #aaaaaa;
+    --primary: var(--col-purple);
+    --content: var(--col-purple);
+    --secondary: #aaaaaa;
+    --tertiary: #aaaaaa;
+    --hljs-bg: #2e2e33;
+    --code-bg: #37383e;
+    --border: #446;
+}
+
 
 .theme-blue {
     --theme: var(--col-blue);
@@ -83,6 +112,20 @@
     --border: #eee;
 }
 
+.theme-blue-dark {
+    --theme: #000000;
+    --navcolor: #333333;
+    --navcontent: var(--col-orange);
+    --entry: #aaaaaa;
+    --primary: var(--col-blue);
+    --content: var(--col-blue);
+    --secondary: #aaaaaa;
+    --tertiary: #aaaaaa;
+    --hljs-bg: #2e2e33;
+    --code-bg: #37383e;
+    --border: #446;
+}
+
 .theme-yellow {
     --theme: var(--col-yellow);
     --navcolor: var(--col-purple);
@@ -94,5 +137,18 @@
     --hljs-bg: #1c1d21;
     --code-bg: #f5f5f5;
     --border: #eee;
+}
+.theme-yellow-dark {
+    --theme: #000000;
+    --navcolor: #333333;
+    --navcontent: var(--col-purple);
+    --entry: #aaaaaa;
+    --primary: var(--col-yellow);
+    --content: var(--col-yellow);
+    --secondary: #aaaaaa;
+    --tertiary: #aaaaaa;
+    --hljs-bg: #2e2e33;
+    --code-bg: #37383e;
+    --border: #446;
 }
 
