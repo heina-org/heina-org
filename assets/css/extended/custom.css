@@ -3,8 +3,3 @@
     justify-content: center;
     line-height: 1em;
 }
-
-.page-header,
-.post-header {
-    margin: 0px auto var(--content-gap) auto;
-}
