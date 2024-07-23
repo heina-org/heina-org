@@ -39,6 +39,6 @@ markup:
       attribute:
         block: true
         title: true
-      renderer:
-        unsafe: true
+    renderer:
+      unsafe: true
 

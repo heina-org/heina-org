@@ -3,7 +3,7 @@ title: "Konzept"
 theme_color: "green"
 ---
 
-# HeiNa baut das Radhaus.
+# HeiNa baut das RADhaus.
 
 ## HeiNa – die „Heitere Nachbarschaft“.
 
@@ -17,9 +17,7 @@ uns am „Prinzip der ökologischen Nachhaltigkeit“. Die Architektur soll dies
 und wird gemeinsam mit den Planer:innen entwickelt. Eingesetzte Materialien sollen ihrem Lebenszyklus gerecht
 gewählt, Funktionen sinnvoll geplant und untergebracht werden.
 
-## Das Wilhelmsburger Rathausviertel braucht ein RADhaus.
-
-### Und eine Öffnung in den Stadtteil.
+## Das Wilhelmsburger Rathausviertel braucht ein RADhaus. Und eine Öffnung in den Stadtteil.
 
 Als leidenschaftliche Radfahrende wollen wir mit unserem Projekt einen räumlichen, konzeptionellen und gestalterischen Beitrag
 zur nachhaltigen Mobilität leisten – und das direkt am
@@ -28,18 +26,14 @@ Mit dem RADhaus stärken wir die Fahrradkultur auf der Elbinsel. Neben ausreiche
 Lastenräder im hausinternen RADsharing haben und verzichten damit auf Autostellplätze. Mit einer öffentlich zugänglichen Fahrradwerkstatt
 wollen wir unser Wohnprojekt wöchentlich für die Nachbarschaft öffnen.
 
-## Unsere Gemeinschaft wird sich gegenseitig stützen. 
-
-### Und die Grundgedanken schützen.
+## Unsere Gemeinschaft wird sich gegenseitig stützen. Und die Grundgedanken schützen.
 
 Wir leben demokratische Grundprinzipien und schützen den gemeinschaftlichen Grundgedanken, unsere Werte und Entscheidungsstrukturen.
 Deshalb schließen wir Spekulation mit Wohnraum aus. Bei notwendiger Veräußerung wählt die Gemeinschaft eine Nachbesetzung aus.
 Ein Vorkaufsrecht zugunsten der Eigentümergemeinschaft schützt die Grundgedanken des Projekts dauerhaft. Gegenseitige Unterstützung
 im Alltag oder im Bedarfsfall ist für uns selbstverständlich.
 
-## Unsere Gemeinschaft wird teilen. 
-
-### Weniger kann mehr sein.
+## Unsere Gemeinschaft wird teilen. Weniger kann mehr sein.
 
 Als Baugemeinschaft bringen wir uns aktiv in das Entstehen einer neuen lebendigen Nachbarschaft ein und pflegen gute Beziehungen
 zu den umliegenden Nachbarschaften in Wilhelmsburg. Dazu gehören Nachbarschaftshilfe, Austausch von Know-How und Sharing von
