@@ -1,6 +1,6 @@
 ---
 title: Kontakt
-theme_color: "green"
+theme_color: "blue"
 ---
 
 # Schreib uns.

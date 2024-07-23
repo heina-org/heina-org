@@ -12,22 +12,26 @@ menu:
       name: KONZEPT
       url: /konzept/
       weight: 2
-    - identifier: grundstueck
-      name: ARCHITEKTUR
-      url: /grundstueck-architektur/
+    - identifier: radhaus
+      name: RADHAUS
+      url: /radhaus/
       weight: 3
+    - identifier: nachbarschaft
+      name: NACHBARSCHAFT
+      url: /nachbarschaft/
+      weight: 4
     - identifier: ueberuns
       name: "ÜBER UNS"
       url: /ueber-uns/
-      weight: 4
+      weight: 5
     - identifier: DOWNLOADS
       name: DOWNLOADS
       url: /downloads/
-      weight: 5
+      weight: 6
     - identifier: kontakt
       name: KONTAKT
       url: /kontakt/
-      weight: 6
+      weight: 7
 
 markup:
   goldmark:

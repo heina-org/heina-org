@@ -1,6 +1,6 @@
 ---
 title: "Start"
-theme_color: "yellow"
+theme_color: "orange"
 ---
 
 # HeiNa *

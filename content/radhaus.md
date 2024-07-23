@@ -1,6 +1,6 @@
 ---
-title: Architektur
-theme_color: "orange"
+title: Radhaus
+theme_color: "purple"
 ---
 
 # Das ist unser Grundstück. Und die Architekturidee.

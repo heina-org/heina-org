@@ -1,6 +1,6 @@
 ---
 title: Über uns
-theme_color: "purple"
+theme_color: "blue-yellow"
 ---
 
 # HeiNa ist eine gemeinsame Geschichte.

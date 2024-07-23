@@ -1,6 +1,6 @@
 ---
 title: "Konzept"
-theme_color: "blue"
+theme_color: "green"
 ---
 
 # HeiNa baut das Radhaus.
