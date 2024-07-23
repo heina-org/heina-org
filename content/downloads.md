@@ -1,7 +1,9 @@
 ---
-title: "Informationen / Downloads"
+title: Downloads
 theme_color: "yellow"
 ---
+
+# Informationen & Downloads
 
 Hier könnt ihr Informationen über unsere Baugemeinschaft HeiNa, das Rathausviertel und die IBA Hamburg GmbH herunterladen.
 

@@ -1,7 +1,9 @@
 ---
-title: "Disclaimer"
+title: Impressum & Datenschutz
 theme_color: "green"
 ---
+
+# Disclaimer
 
 ## Angaben gemäß Telemediengesetz
 

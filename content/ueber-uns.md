@@ -1,7 +1,9 @@
 ---
-title: "HeiNa ist eine gemeinsame Geschichte."
+title: Über uns
 theme_color: "purple"
 ---
+
+# HeiNa ist eine gemeinsame Geschichte.
 
 2019 haben wir uns als Freundeskreis zusammengeschlossen, um mehr Gemeinschaft und Lebensfreude
 unter einem Dach zu erleben. Aus dieser Idee entstand die Vision des RADhauses. Mit einem klaren Konzept

@@ -1,7 +1,9 @@
 ---
-title: "Schreib uns."
+title: Kontakt
 theme_color: "green"
 ---
+
+# Schreib uns.
 
 Kontakt: [hello@heina.org](mailto:hello@heina.org)
 

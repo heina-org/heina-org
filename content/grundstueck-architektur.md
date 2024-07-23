@@ -1,7 +1,9 @@
 ---
-title: "Das ist unser Grundstück. Und die Architekturidee."
+title: Architektur
 theme_color: "orange"
 ---
+
+# Das ist unser Grundstück. Und die Architekturidee.
 
 Unser RADhaus entsteht im nordwestlichen Bereich des
 [Rathausviertels](https://de.wikipedia.org/wiki/Wilhelmsburger_Rathausviertel)

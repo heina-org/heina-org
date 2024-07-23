@@ -2,11 +2,6 @@ baseURL: https://heina-baugemeinschaft.org/
 languageCode: de-DE
 theme: PaperMod
 
-params:
-  # Logo and name shown on top left of site
-  label:
-    text: "HeiNa baut das RADhaus"
-
 menu:
   main:
     - identifier: start

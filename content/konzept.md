@@ -1,7 +1,9 @@
 ---
-title: "HeiNa baut das Radhaus."
+title: "Konzept"
 theme_color: "blue"
 ---
+
+# HeiNa baut das Radhaus.
 
 ## HeiNa – die „Heitere Nachbarschaft“.
 

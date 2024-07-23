@@ -1,7 +1,9 @@
 ---
-title: "HeiNa *"
-theme_color: "green"
+title: "Start"
+theme_color: "yellow"
 ---
+
+# HeiNa *
 
 Heitere Nachbarschaft - unsere Baugemeinschaft im Rathausviertel in Hamburg-Wilhelmsburg.
 {class="letterspace"}
