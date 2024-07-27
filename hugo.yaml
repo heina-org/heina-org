@@ -16,10 +16,10 @@ menu:
       name: RADHAUS
       url: /radhaus/
       weight: 3
-    - identifier: nachbarschaft
-      name: NACHBARSCHAFT
-      url: /nachbarschaft/
-      weight: 4
+    # - identifier: nachbarschaft
+    #   name: NACHBARSCHAFT
+    #   url: /nachbarschaft/
+    #   weight: 4
     - identifier: ueberuns
       name: "ÜBER UNS"
       url: /ueber-uns/
