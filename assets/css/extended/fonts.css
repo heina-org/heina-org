@@ -40,6 +40,11 @@ body {
     font-family: ShadowsIntoLight, sans-serif;
 }
 
+.post-content h4 {
+    font-family: ShadowsIntoLight, sans-serif;
+    font-size: 0.9em;
+}
+
 .post-content {
     font-family: Barlow, sans-serif;
     font-size: 1.2em;
