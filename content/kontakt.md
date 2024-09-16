@@ -3,7 +3,7 @@ title: Kontakt
 theme_color: "blue"
 ---
 
-# Schreibt uns
+# Schreibt uns.
 
 [Schreibt uns gerne ein paar Worte](mailto:hello@heina.org) zu euch und was euch motiviert, bei uns mitzumachen. Wir freuen uns auf euch.
 

@@ -3,7 +3,7 @@ title: "Konzept"
 theme_color: "green"
 ---
 
-# HeiNa baut das RADhaus
+# HeiNa baut das RADhaus.
 
 ## HeiNa – die „Heitere Nachbarschaft“
 
