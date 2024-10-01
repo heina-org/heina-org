@@ -1,0 +1,9 @@
+set ssl:verify-certificate no     # Disable SSL verification (if needed)
+set sftp:auto-confirm yes         # Automatically confirm SSH key fingerprint on the first connection
+
+open -u heinawa, sftp://www625.your-server.de
+
+# Mirror local directory "public" to remote "public_html" (dry run)
+mirror -R --delete --verbose --exclude .htaccess ./public /public_html
+
+quit
