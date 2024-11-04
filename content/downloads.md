@@ -9,7 +9,6 @@ Hier könnt ihr Informationen über unsere Baugemeinschaft HeiNa, das Rathausvie
 
 ## HeiNa Material
 
-* [HeiNa Präsentation PDF](/downloads/HeiNa_Präsentation.pdf)
 * [HeiNa Flyer PDF](/downloads/HeiNa_Flyer.pdf)
 
 ## Externe Links
