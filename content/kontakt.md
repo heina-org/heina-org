@@ -5,7 +5,9 @@ theme_color: "blue"
 
 # Schreibt uns.
 
-[Schreibt uns gerne ein paar Worte](mailto:hello@heina.org) zu euch und was euch motiviert, bei uns mitzumachen. Wir freuen uns auf euch.
+[Schreibt uns gerne ein paar Worte](mailto:hello@heina.org) zu euch und was euch motiviert, bei uns mitzumachen. Wir freuen uns auf euch!
+
+Wir sind besonders auf der Suche nach Menschen, die Vielfalt in unsere Gruppe bringen und für die Engagement – für die Hausgemeinschaft und darüber hinaus – wichtig ist.
 
 Kontakt: [hello@heina.org](mailto:hello@heina.org)
 
